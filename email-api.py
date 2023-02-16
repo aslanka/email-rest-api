@@ -13,7 +13,7 @@ def sendEmail():
   smtp_port.starttls()
 
   # Logging into your account
-  smtp_port.login("ayushlanka106@gmail.com" , "bpchkhrqswdstjhb")
+  smtp_port.login("ayushlanka106@gmail.com" , "")
 
   # Creating the contents of the email
   subject = "Tutoring Considation Appointment"
